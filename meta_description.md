@@ -3,7 +3,7 @@
 
 
 
-**Tóm tắt: **Vào giữa tháng 5 năm 2018, Google đã trở lại việc hiển thị đoạn trích ngắn hơn. Dữ liệu của chúng tôi cho thấy những thay đổi này phổ biến và hấu hết các mô tả Meta đang bị cắt trong phạm vi trước đó khoảng 155- 160 kí tự.
+**Tóm tắt: **Vào giữa tháng 8 năm 2018, Google đã trở lại việc hiển thị đoạn trích ngắn hơn. Dữ liệu của chúng tôi cho thấy những thay đổi này phổ biến và hấu hết các mô tả Meta đang bị cắt trong phạm vi trước đó khoảng 155- 160 kí tự.
 
 Trở lại vào tháng 12, Google đã thực hiện một thay đổi đáng kể về cách họ hiển thị đoạn trích tìm kiếm, với nghiên cứu của chúng tôi cho biết nhiều đoạn trích hơn 300 kí tự. Cuối tuần qua, họ dường như đã quay trở lại với thay đổi đó ( Danny Suliivan [đã xác nhận một phần điều này](https://twitter.com/dannysullivan/status/996065145443893249) trên Twitter vào ngày 14 tháng 5. Bên cạnh những câu hỏi rõ ràng - Giới hạn mới là gì? - Điều đó có thể khiến bạn tự hỏi làm thế nào để đối phó khi các quy tắc tiếp tục thay đổi. Không ai trong chúng ta có một quả cầu pha lê, nhưng tôi sẽ cố gắng trở lời cả 2 câu hỏi dựa trên những điều chúng ta mà ngày nay chúng ta đã biết.
 
