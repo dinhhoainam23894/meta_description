@@ -5,7 +5,7 @@
 
 **Tóm tắt: **Vào giữa tháng 8 năm 2018, Google đã trở lại việc hiển thị đoạn trích ngắn hơn. Dữ liệu của chúng tôi cho thấy những thay đổi này phổ biến và hấu hết các mô tả Meta đang bị cắt trong phạm vi trước đó khoảng 155- 160 kí tự.
 
-Trở lại vào tháng 12, Google đã thực hiện một thay đổi đáng kể về cách họ hiển thị đoạn trích tìm kiếm, với nghiên cứu của chúng tôi cho biết nhiều đoạn trích hơn 300 kí tự. Cuối tuần qua, họ dường như đã quay trở lại với thay đổi đó ( Danny Suliivan [đã xác nhận một phần điều này](https://twitter.com/dannysullivan/status/996065145443893249) trên Twitter vào ngày 14 tháng 5. Bên cạnh những câu hỏi rõ ràng - Giới hạn mới là gì? - Điều đó có thể khiến bạn tự hỏi làm thế nào để đối phó khi các quy tắc tiếp tục thay đổi. Không ai trong chúng ta có một quả cầu pha lê, nhưng tôi sẽ cố gắng trở lời cả 2 câu hỏi dựa trên những điều chúng ta mà ngày nay chúng ta đã biết.
+Trở lại vào tháng 12, Google đã thực hiện một thay đổi đáng kể về cách họ hiển thị đoạn trích tìm kiếm, với nghiên cứu của chúng tôi cho biết nhiều đoạn trích hơn 300 kí tự. Cuối tuần qua, họ dường như đã quay trở lại với thay đổi đó ( Danny Suliivan [đã xác nhận một phần điều này](https://twitter.com/dannysullivan/status/996065145443893249) trên Twitter vào ngày 14 tháng 5. Bên cạnh những câu hỏi hiển nhiên mà ta sẽ đặt ra rằng  - Giới hạn mới là gì? - Điều đó có thể khiến bạn tự hỏi làm thế nào để đối phó khi các quy tắc tiếp tục thay đổi. Không ai trong chúng ta có một quả cầu pha lê, nhưng tôi sẽ cố gắng trở lời cả 2 câu hỏi dựa trên những điều chúng ta mà ngày nay chúng ta đã biết.
 
 ## Lies, dirty lies, and statistics... (Lời dối trá, dối trá dơ bẩn, và các thống kê ... )
 
@@ -24,13 +24,13 @@ Bỏ qua một sự nhầm lẫn đa thương hiệu nghiêm trọng của họ,
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-3-12620.png)
 
-Chú ý "Jump to Exceptions" và liên kết ở đầu. Tất cả đã được thêm bởi Google, vì vậy thật khó để nói cái gì được đếm ngược số kí tự và cái gì không. Một trường hợp ở đây không thêm phần bổ sung là 370 kí tự, từ một tìm kiếm "the Hunger Games books":
+Chú ý "Jump to Exceptions" và liên kết ở đầu. Tất cả đã được thêm bởi Google, vì vậy thật khó để nói cái gì  tính vào số lượng ký tự và những gì không được tính. Một trường hợp ở đây không thêm phần bổ sung là 370 kí tự, từ một tìm kiếm "the Hunger Games books":
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-4-11379.png)
 
 Vì vậy chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn tại. Tuy nhiên, lưu ý rằng, cả 2 đoạn trích đến từ Wikipedia, đó là một ngoại lệ với rất nhiều quy tắc SEO. Những mô tả dài này chỉ có những trường hợp bên ngoài không? Nhìn vào giá trị trung bình (hoặc trong trường hợp này, thậm chí trung bình) không thực sự cho chúng ta biết điều đó.
 
-## The big picture, part 1 (Bức tranh lớn, phần 1)
+## The big picture, part 1 (Bức tranh tổng quan, phần 1)
 
 Đôi khi, bạn phải để cho dữ liệu tự nói với chính mình, với nhỏ nhất của "coaxing". Hãy cùng xem xét tất các các đoạn trích đã được cắt bỏ (kết thúc bằng "...") và xóa các kết quả video (chúng ta biết từ các nghiên cứ trước đây rằng các đoạn trích này ngắn hơn một chút). Điều này cho ta 42,863 đoạn trích (chỉ bằng một nửa bộ dữ liệu từ chúng tôi). Ở đây là đồ thị của các độ dài cắt-bỏ, được thu thập thành 25 ngăn kí tự (0 - 25, 26 - 50, vv.):
 
@@ -38,14 +38,14 @@ Vì vậy chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn t�
 
 Điều này nhìn có vẻ rất khác từ dữ liệu của chúng tôi [vào tháng 12](https://moz.com/blog/how-long-should-your-meta-description-be-2018), và được phân nhóm rõ ràng từ phạm vi 150 - 175 kí tự. Chúng tôi thấy một vài đoạn trích hiển thị Google bị cắt sau phạm vị 300+, nhưng đoạn mã này bị thu hẹp bởi các đoạn lần cắt ngắn hơn.
 
-## The big picture, part 2 (Bức tranh lớn, phần 2)
+## The big picture, part 2 (Bức tranh tổng quan, phần 2)
 
 Rõ ràng, có rất nhiều điều xảy ra trong phạm vi 125 - 175 kí tự, vì vậy hãy phóng to và nhìn vào phần giữa của phân bố tần suất, chia thành các nhóm nhỏ hơn gồm 5 kí tự: 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-6-4992.png)
 
 Chúng tôi có thể thấy khá rõ ràng rằng phần lớn các phần cắt bỏ xảy ra trong phạm vi 145 - 165 kí tự. Trước tháng 12,  các hướng dẫn trước đây mô tả meta giữ chúng dưới 155 kí tự, do đó, có vẻ như google đã nhiều hoặc ít là đã quay lại các quy tắc cũ.
 
-Hãy nhớ rằng Google sử dụng phông chữ tỉ lệ, vì vậy không có giới hạn kí tự chính xác. Một số người đã đưa ra giả thuyết giới hạn một pixel-width, giống với thẻ tiêu đề, nhưng tôi thấy rằng khó khăn hơn để ghim xuống với các đoạn trích nhiều dòng (tình huống thậm chí có khó khăn trên kết quả di động). Thực tế, điều đó cũng khó để viết tới giới hạn pixel. Các dữ liệu cho thấy rằng 155 kí tự là hợp lí.
+Hãy nhớ rằng Google sử dụng phông chữ tỉ lệ thuận, vì vậy không có giới hạn kí tự chính xác. Một số người đã đưa ra giả thuyết giới hạn một pixel-width, giống với thẻ tiêu đề, nhưng tôi thấy rằng khó khăn hơn để ghim xuống với các đoạn trích nhiều dòng (tình huống thậm chí có khó khăn trên kết quả di động). Thực tế, điều đó cũng khó để viết tới giới hạn pixel. Các dữ liệu cho thấy rằng 155 kí tự là hợp lí.
 
 ## To the Wayback Machine... ?! 
 
@@ -57,7 +57,7 @@ Một vài trang web không có tất cả các mô tả meta. Wikipedia là m�
 
 ### (2) Let the ... fall where it may ( Hãy để ... rơi đúng nơi có thể )
 
-Bạn có thể viết với độ dài mà bạn nghĩ là ý tưởng cho bất gì một trang nào (trong suy luận) và nếu các đoạn trích bị căt, đừng lo về điều đó. Có thể dấu ba chấm (...) được thêm vào sau. Tôi đang nói đùa, nhưng thực tế việc cắt bỏ không phải là "nụ hôn thần chết". Một mô tả tốt có thể lôi kéo mộ người muốn đọc nó.
+Bạn có thể viết với độ dài mà bạn nghĩ là ý tưởng cho bất gì một trang nào (trong suy luận) và nếu các đoạn trích bị căt, đừng lo về điều đó. Có thể dấu ba chấm (...) được thêm vào sau.Tôi chỉ nửa đùa ở đây thôi , nhưng thực tế việc cắt bỏ không phải là "nụ hôn của thần chết". Một mô tả tốt có thể lôi kéo mọi người muốn đọc nó.
 
 ### (3) Chop everything at 155 characters (Cắt tất cả ở 155 kí tự)
 
